@@ -1,3 +1,10 @@
+<style>
+  body {
+    background-color: #1c1c1c; /* Cor de fundo escura, você pode ajustar conforme desejado */
+    color: #fff; /* Cor do texto, branca neste caso */
+  }
+</style>
+
 # Projeto de Estudo: Lógica de Programação
 
 Bem-vindo ao meu projeto de estudo de lógica de programação! Este repositório é dedicado à prática e ao aprimoramento das habilidades em programação, com foco especial na lógica subjacente.
