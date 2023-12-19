@@ -35,4 +35,4 @@ Sinta-se à vontade para contribuir com este projeto! Se você encontrar bugs, t
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/logica_programacao.git
+   git clone https://github.com/pepeSec/Logica_Programacao.git
