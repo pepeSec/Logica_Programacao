@@ -1,9 +1,3 @@
-<style>
-  body {
-    background-color: #1c1c1c; /* Cor de fundo escura, você pode ajustar conforme desejado */
-    color: #fff; /* Cor do texto, branca neste caso */
-  }
-</style>
 
 # Projeto de Estudo: Lógica de Programação
 
